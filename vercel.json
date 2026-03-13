@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/test",
-      "destination": "https://page.figma.site/abc123"
+      "destination": "https://kenreigh-one.figma.site"
     }
   ]
 }
