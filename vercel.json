@@ -7,6 +7,10 @@
     {
       "source": "/revance/:path*",
       "destination": "https://test-one-khaki-64.vercel.app/:path*"
+    },
+    {
+      "source": "/",
+      "destination": "https://websitedefaultstate.vercel.app/"
     }
   ]
 }
