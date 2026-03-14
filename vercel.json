@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/revance",
-      "destination": "https://test-one-khaki-64.vercel.app"
+      "destination": "https://portfolio-revance.vercel.app"
     },
     {
       "source": "/revance/:path*",
-      "destination": "https://test-one-khaki-64.vercel.app/:path*"
+      "destination": "https://portfolio-revance.vercel.app/:path*"
     },
     {
       "source": "/",
